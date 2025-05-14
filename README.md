@@ -16,8 +16,8 @@ Je suis un jeune **développeur Full Stack** passionné par l'**apprentissage de
 - J’ai l’opportunité d’appliquer ce que j’apprends à l’école tout en contribuant à des projets réels et en travaillant en équipe avec des professionnels expérimentés.
 
 💬 **Comment me contacter** :
-- 📧 [adrien.fevre.pro@gmail.com](mailto:adrien.fevre.pro@gmail.com)
-- 📱 [Mon LinkedIn](https://www.linkedin.com/in/adrien-f-454398277)
+- 📧 [Adrien.fevre.pro@gmail.com](mailto:adrien.fevre.pro@gmail.com)
+- 📱  [Mon LinkedIn](https://www.linkedin.com/in/adrien-f-454398277)
 - 🌐 [Mon Portfolio](https://adrien-fevre.fr)
 
 🛠️ **Compétences techniques et outils que j’utilise** :
@@ -29,6 +29,3 @@ Je suis un jeune **développeur Full Stack** passionné par l'**apprentissage de
 🎮 **En dehors du code** :
 - Passionné par les **jeux vidéo**, 🏸le **badminton**, 🎾le **tennis** ainsi que le **montage vidéo et photo** (j’aime créer du contenu visuel et dynamique).
 - J’adore relever des **défis techniques** en créant des projets personnels et expérimenter avec de nouvelles technologies.
-
-📈 **Mes statistiques GitHub** :
-![Ton Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=A-Fevre&show_icons=true&count_private=true&hide=prs&theme=radical)
