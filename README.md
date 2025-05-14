@@ -8,6 +8,7 @@ Je suis un jeune **développeur Full Stack** passionné par l'**apprentissage de
 
 🌱 **Ce que j'apprends en ce moment** :
 - **NestJS** pour optimiser l'architecture et l'efficacité des requêtes sur le back-end.
+- **Next.jS** pour la création d'applications React avec **server-side rendering** (SSR) et **static site generation** (SSG).
 - **Docker** pour la conteneurisation des applications et l'amélioration de l'environnement de développement.
 - Des techniques de **testing** avancées avec **Jest** et **Cypress** pour écrire des tests robustes et garantir la qualité du code.
 
