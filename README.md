@@ -3,7 +3,7 @@
 Je suis un jeune **développeur Full Stack** passionné par l'**apprentissage de nouvelles technologies web et logicielles**. Toujours à la recherche de défis intéressants, je m’efforce de rester à la pointe de l'innovation dans le monde du développement.
 
 🔭 **Actuellement, je travaille sur** :
-- Le développement d'applications **Full Stack** avec **React**, **Next.js**, **Laravel** et **React Native**.
+- Le développement d'applications **Full Stack** avec **React**, **Next.js**, **Laravel**, **Nest**, **Hono | Bun** et **React Native**.
 - L'amélioration continue de mes compétences en **DevOps**, notamment avec des outils comme **Docker** et l’automatisation de déploiement.
 
 🌱 **Ce que j'apprends en ce moment** :
@@ -13,13 +13,11 @@ Je suis un jeune **développeur Full Stack** passionné par l'**apprentissage de
 - Des techniques de **testing** avancées avec **Jest** et **Cypress** pour écrire des tests robustes et garantir la qualité du code.
 
 💼 **Mon expérience en alternance** :
-- Actuellement, je suis **alternant** chez **[Wooskill](https://wooskill.com)** où je participe activement à des projets de développement web en utilisant **React**, **Next.js**, **Symfony**, **Docker**, et les services **AWS**.
-- J’ai l’opportunité d’appliquer ce que j’apprends à l’école tout en contribuant à des projets réels et en travaillant en équipe avec des professionnels expérimentés.
+- Actuellement, je suis **alternant** chez **[TypoCity](https://www.typocity.fr/)** où je participe activement à des projets de développement web en utilisant **Typo3**.
 
 💬 **Comment me contacter** :
 - 📧 [Adrien.fevre.pro@gmail.com](mailto:adrien.fevre.pro@gmail.com)
 - 📱  [Mon LinkedIn](https://www.linkedin.com/in/adrien-f-454398277)
-- 🌐 [Mon Portfolio](https://adrien-fevre.fr)
 
 🛠️ **Compétences techniques et outils que j’utilise** :
 - **Frontend** : HTML, CSS, JavaScript, **React**, **TypeScript**, **Next.js**
