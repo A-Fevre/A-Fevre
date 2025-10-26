@@ -15,16 +15,39 @@ Je suis un jeune **développeur Full Stack** passionné par l'**apprentissage de
 💼 **Mon expérience en alternance** :
 - Actuellement, je suis **alternant** chez **[TypoCity](https://www.typocity.fr/)** où je participe activement à des projets de développement web en utilisant **Typo3**.
 
-💬 **Comment me contacter** :
-- 📧 [Adrien.fevre.pro@gmail.com](mailto:adrien.fevre.pro@gmail.com)
-- 📱  [Mon LinkedIn](https://www.linkedin.com/in/adrien-f-454398277)
+### 🚀 Stack Technique
 
-🛠️ **Compétences techniques et outils que j’utilise** :
-- **Frontend** : HTML, CSS, JavaScript, **React**, **TypeScript**, **Next.js**
-- **Backend** : **Node.js**, **Express.js**, **Laravel**, **Symfony**
-- **Bases de données** : **MongoDB**, **PostgreSQL**, **MySQL**, **SQL Server**
-- **Outils** : Git, **GitHub**, **Docker**, **CI/CD** pour l’intégration continue et le déploiement
+#### 🧠 Frontend
+- HTML, CSS, JavaScript, **React**, **TypeScript**, **Next.js**
+
+#### ⚙️ Backend
+- **Node.js**, **Express.js**, **Laravel**, **Symfony**
+
+#### 🗄️ Bases de données
+- **MongoDB**, **PostgreSQL**, **MySQL**, **SQL Server**
+
+#### 🧰 Outils & DevOps
+- **Git**, **GitHub**, **Docker**, **CI/CD**
+
+---
+
+### 🧰 Stack en icônes
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,symfony,mongodb,postgresql,mysql,docker,git,github,vscode,vercel,postman&perline=9)](https://skillicons.dev)
+
+---
 
 🎮 **En dehors du code** :
 - Passionné par les **jeux vidéo**, 🏸le **badminton**, 🎾le **tennis** ainsi que le **montage vidéo et photo** (j’aime créer du contenu visuel et dynamique).
 - J’adore relever des **défis techniques** en créant des projets personnels et expérimenter avec de nouvelles technologies.
+
+---
+
+<h3 align="center">
+  🌙 <em>« Le code évolue, moi aussi. »</em> 🌙<br/>
+  <sub>— Passionné par l’apprentissage et la création.</sub>
+</h3>
+
+<p align="center">
+  <sub>✨ Built with ❤️ using <b>Markdown</b> & <b>SkillIcons.dev</b></sub>
+</p>
